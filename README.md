@@ -9,5 +9,6 @@ This project uses pandas and matplotlib to analyze the FuelConsumption.csv datas
 4. Clear labels, grid, and titles for easy interpretation
 
 **Usage**
+
 Run the script in Python to generate plots: python FuelConsumption.py
 Graphs will display relationships between vehicle attributes and emissions.
