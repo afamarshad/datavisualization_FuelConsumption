@@ -1,4 +1,5 @@
 **Fuel Consumption Visualization**
+
 This project uses pandas and matplotlib to analyze the FuelConsumption.csv dataset. It plots scatter graphs showing the relationship between engine size, cylinders, and CO2 emissions, helping visualize how vehicle characteristics impact environmental output.
 
 **Features**
